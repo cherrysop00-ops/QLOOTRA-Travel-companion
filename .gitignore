@@ -1,0 +1,15 @@
+# 🔐 Secrets and API Keys
+.gemini_key*
+.qloo_key*
+.streamlit/secrets.toml
+
+# 🐍 Virtual environments
+.venv/
+venv/
+
+# ⚙️ Python cache
+__pycache__/
+*.pyc
+
+# 💻 IDE configs
+.vscode/

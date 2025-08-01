@@ -1220,3 +1220,4 @@ if "load_saved_trips_func" not in st.session_state:
 
 if "save_trips_func" not in st.session_state:
     st.session_state.save_trips_func = save_trips
+

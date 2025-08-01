@@ -1,0 +1,140 @@
+[
+  {
+    "destination": "texas",
+    "days": 6,
+    "budget": "",
+    "timestamp": "2025-07-30T17:47:57.753683"
+  },
+  {
+    "destination": "texas",
+    "days": 6,
+    "budget": "",
+    "timestamp": "2025-07-30T19:30:37.313134"
+  },
+  {
+    "destination": "tokyo",
+    "days": 6,
+    "budget": "",
+    "timestamp": "2025-07-31T09:39:07.884372"
+  },
+  {
+    "destination": "NEW YORK",
+    "days": 3,
+    "budget": "",
+    "timestamp": "2025-07-31T10:24:46.485772"
+  },
+  {
+    "destination": "tokyo",
+    "days": 3,
+    "budget": "",
+    "timestamp": "2025-07-31T12:06:24.535744"
+  },
+  {
+    "destination": "india",
+    "days": 7,
+    "budget": "",
+    "timestamp": "2025-07-31T19:46:48.727850"
+  },
+  {
+    "destination": "Mumbai",
+    "days": 6,
+    "budget": "",
+    "timestamp": "2025-07-31T21:18:33.123109"
+  },
+  {
+    "destination": "Mumbai",
+    "days": 8,
+    "budget": "",
+    "timestamp": "2025-07-31T21:24:15.111502"
+  },
+  {
+    "destination": "new york",
+    "days": 9,
+    "budget": "",
+    "timestamp": "2025-07-31T21:49:51.199191"
+  },
+  {
+    "destination": "new york",
+    "days": 3,
+    "budget": "",
+    "timestamp": "2025-07-31T21:54:06.605064"
+  },
+  {
+    "destination": "new york",
+    "days": 7,
+    "budget": "",
+    "timestamp": "2025-07-31T22:06:52.672185"
+  },
+  {
+    "destination": "san diego",
+    "days": 9,
+    "budget": "",
+    "timestamp": "2025-08-01T07:50:26.655591"
+  },
+  {
+    "destination": "Mumbai",
+    "days": 6,
+    "budget": "",
+    "timestamp": "2025-08-01T13:30:39.272737"
+  },
+  {
+    "destination": "Mumbai",
+    "days": 7,
+    "budget": "",
+    "timestamp": "2025-08-01T13:33:31.306534"
+  },
+  {
+    "destination": "texas",
+    "days": 3,
+    "budget": "",
+    "timestamp": "2025-08-01T13:41:49.989902"
+  },
+  {
+    "destination": "Mumbai",
+    "days": 9,
+    "budget": "",
+    "timestamp": "2025-08-01T18:36:44.618500"
+  },
+  {
+    "destination": "new york",
+    "days": 9,
+    "budget": "",
+    "timestamp": "2025-08-01T18:43:04.034619"
+  },
+  {
+    "destination": "TOKYO",
+    "days": 3,
+    "budget": "",
+    "timestamp": "2025-08-01T18:54:12.302241"
+  },
+  {
+    "destination": "Hyder\u0101b\u0101d, Telangana, IN",
+    "days": 3,
+    "budget": "",
+    "timestamp": "2025-08-01T19:05:36.720051"
+  },
+  {
+    "destination": "Mumbai",
+    "days": 3,
+    "budget": "",
+    "timestamp": "2025-08-01T19:39:38.056922"
+  },
+  {
+    "destination": "Mumbai",
+    "days": 8,
+    "budget": "",
+    "timestamp": "2025-08-01T19:47:35.743463"
+  },
+  {
+    "destination": "texas",
+    "days": 3,
+    "budget": "",
+    "timestamp": "2025-08-01T19:53:17.454424"
+  },
+  {
+    "destination": "Mumbai",
+    "days": 3,
+    "budget": "",
+    "timestamp": "2025-08-01T19:56:46.070145"
+  }
+]
